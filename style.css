@@ -1,0 +1,9 @@
+#redButton {
+  background-color: #c50000; 
+  color: white;
+  padding: none;
+  border: 10px 20px;;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
